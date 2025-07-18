@@ -1,6 +1,6 @@
 # ¡Hola! 👋 Soy Anyela
 
-Soy una **desarrolladora backend** apasionada por crear soluciones robustas y escalables. Tengo experiencia trabajando con Java, Spring Boot y el desarrollo de microservicios, así como el manejo de contenedores con Docker y bases de datos relacionales y NoSQL.
+Una **desarrolladora backend** apasionada por crear soluciones robustas y escalables. Tengo experiencia trabajando con Java, Spring Boot y el desarrollo de microservicios, así como el manejo de contenedores con Docker y bases de datos relacionales y NoSQL.
 
 Actualmente, me encuentro aprendiendo sobre **Inteligencia Artificial** y explorando el mundo de **DevOps** para seguir creciendo profesionalmente.
 
